@@ -1,6 +1,6 @@
 # DDD_2020
 
-# Objetico
+# Objetivo
 
 ## 1. Async :
 Projeto de Produtos , porém dessa vez utilizando Async/Await !
