@@ -11,6 +11,7 @@ namespace ApplicationApp.OpenApp
     public class AppProduct : InterfaceProductApp
     {
         IProduct _IProduct;
+
         public AppProduct(IProduct IProduct)
         {
             _IProduct = IProduct;
