@@ -8572,19 +8572,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\GuilhermeAbranchesDi\\.nuget\\packages\\": {}
+    "C:\\Users\\EU447\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\GuilhermeAbranchesDi\\Documents\\GitHub\\Projeto-DDD-2020\\DDD_2020\\Web_DDD_2020\\Web_DDD_2020.csproj",
+      "projectUniqueName": "C:\\Users\\EU447\\OneDrive\\Documents\\Projeto-DDD-2020\\DDD_2020\\Web_DDD_2020\\Web_DDD_2020.csproj",
       "projectName": "Web_DDD_2020",
-      "projectPath": "C:\\Users\\GuilhermeAbranchesDi\\Documents\\GitHub\\Projeto-DDD-2020\\DDD_2020\\Web_DDD_2020\\Web_DDD_2020.csproj",
-      "packagesPath": "C:\\Users\\GuilhermeAbranchesDi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\GuilhermeAbranchesDi\\Documents\\GitHub\\Projeto-DDD-2020\\DDD_2020\\Web_DDD_2020\\obj\\",
+      "projectPath": "C:\\Users\\EU447\\OneDrive\\Documents\\Projeto-DDD-2020\\DDD_2020\\Web_DDD_2020\\Web_DDD_2020.csproj",
+      "packagesPath": "C:\\Users\\EU447\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\EU447\\OneDrive\\Documents\\Projeto-DDD-2020\\DDD_2020\\Web_DDD_2020\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\GuilhermeAbranchesDi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\EU447\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -8597,14 +8597,14 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\GuilhermeAbranchesDi\\Documents\\GitHub\\Projeto-DDD-2020\\DDD_2020\\ApplicationApp\\ApplicationApp.csproj": {
-              "projectPath": "C:\\Users\\GuilhermeAbranchesDi\\Documents\\GitHub\\Projeto-DDD-2020\\DDD_2020\\ApplicationApp\\ApplicationApp.csproj"
+            "C:\\Users\\EU447\\OneDrive\\Documents\\Projeto-DDD-2020\\DDD_2020\\ApplicationApp\\ApplicationApp.csproj": {
+              "projectPath": "C:\\Users\\EU447\\OneDrive\\Documents\\Projeto-DDD-2020\\DDD_2020\\ApplicationApp\\ApplicationApp.csproj"
             },
-            "C:\\Users\\GuilhermeAbranchesDi\\Documents\\GitHub\\Projeto-DDD-2020\\DDD_2020\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\GuilhermeAbranchesDi\\Documents\\GitHub\\Projeto-DDD-2020\\DDD_2020\\Domain\\Domain.csproj"
+            "C:\\Users\\EU447\\OneDrive\\Documents\\Projeto-DDD-2020\\DDD_2020\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\EU447\\OneDrive\\Documents\\Projeto-DDD-2020\\DDD_2020\\Domain\\Domain.csproj"
             },
-            "C:\\Users\\GuilhermeAbranchesDi\\Documents\\GitHub\\Projeto-DDD-2020\\DDD_2020\\Infrastructure\\Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\GuilhermeAbranchesDi\\Documents\\GitHub\\Projeto-DDD-2020\\DDD_2020\\Infrastructure\\Infrastructure.csproj"
+            "C:\\Users\\EU447\\OneDrive\\Documents\\Projeto-DDD-2020\\DDD_2020\\Infrastructure\\Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\EU447\\OneDrive\\Documents\\Projeto-DDD-2020\\DDD_2020\\Infrastructure\\Infrastructure.csproj"
             }
           }
         }
@@ -8651,7 +8651,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

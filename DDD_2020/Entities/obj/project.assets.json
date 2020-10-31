@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\GuilhermeAbranchesDi\\.nuget\\packages\\": {}
+    "C:\\Users\\EU447\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\GuilhermeAbranchesDi\\Documents\\GitHub\\Projeto-DDD-2020\\DDD_2020\\Entities\\Entities.csproj",
+      "projectUniqueName": "C:\\Users\\EU447\\OneDrive\\Documents\\Projeto-DDD-2020\\DDD_2020\\Entities\\Entities.csproj",
       "projectName": "Entities",
-      "projectPath": "C:\\Users\\GuilhermeAbranchesDi\\Documents\\GitHub\\Projeto-DDD-2020\\DDD_2020\\Entities\\Entities.csproj",
-      "packagesPath": "C:\\Users\\GuilhermeAbranchesDi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\GuilhermeAbranchesDi\\Documents\\GitHub\\Projeto-DDD-2020\\DDD_2020\\Entities\\obj\\",
+      "projectPath": "C:\\Users\\EU447\\OneDrive\\Documents\\Projeto-DDD-2020\\DDD_2020\\Entities\\Entities.csproj",
+      "packagesPath": "C:\\Users\\EU447\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\EU447\\OneDrive\\Documents\\Projeto-DDD-2020\\DDD_2020\\Entities\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\GuilhermeAbranchesDi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\EU447\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
       }
     }
   }
